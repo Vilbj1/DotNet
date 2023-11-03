@@ -1,0 +1,15 @@
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.csproj.AssemblyReference.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.AssemblyInfoInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.AssemblyInfo.cs
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\bin\Debug\net7.0\FazendoIMC.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\bin\Debug\net7.0\FazendoIMC.deps.json
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\bin\Debug\net7.0\FazendoIMC.runtimeconfig.json
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\bin\Debug\net7.0\FazendoIMC.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\bin\Debug\net7.0\FazendoIMC.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\refint\FazendoIMC.dll
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\FazendoIMC.genruntimeconfig.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Primeiro\FazendoIMC\obj\Debug\net7.0\ref\FazendoIMC.dll
